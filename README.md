@@ -4,6 +4,6 @@
 Ⅰ love [Wikipedia](https://ja.wikipedia.org/wiki/)!
 
 
--aaa
--bbb
--ccc
+- aaa
+- bbb
+- ccc
